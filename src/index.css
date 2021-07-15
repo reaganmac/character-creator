@@ -12,8 +12,16 @@ body {
 *,
 *:before,
 *:after {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
+}
+
+.perspectiveBox {
+  position: fixed;
+  top: 60vh;
+  width: 100vw;
+  height: 40vh;
+  background-color: hsl(195deg, 20%, 86%);
 }
 
 /*
