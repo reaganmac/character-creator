@@ -16,14 +16,6 @@ body {
   box-sizing: border-box;
 }
 
-.perspectiveBox {
-  position: fixed;
-  top: 60vh;
-  width: 100vw;
-  height: 40vh;
-  background-color: hsl(195deg, 20%, 86%);
-}
-
 /*
   A utility class to totally remove something from the screen,
   while still keeping it available for screen-readers.
